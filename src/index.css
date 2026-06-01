@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0ea5e9; /* Sky 500 */
+  --color-secondary: #f59e0b; /* Amber 500 */
+  --color-background-main: #ffffff;
+  --color-background-alt: #f8fafc;
+  --color-text-main: #0f172a;
+  --font-heading: "Inter", sans-serif;
+  --font-body: "Inter", sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-text-main);
+  background-color: var(--color-background-main);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
