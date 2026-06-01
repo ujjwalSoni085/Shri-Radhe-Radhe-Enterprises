@@ -6,7 +6,7 @@ const Testimonials = () => {
     {
       name: "Vikram Ahuja",
       role: "Lead Interior Designer",
-      text: "Shri Radhe Radhe Enterprises is our go-to supplier for premium ceramic vases and custom decor items. The quality of finish on the abstract art vases we sourced for our tech-office lobby was outstanding.",
+      text: "Shri Radhe Radhe Enterprises is our go-to supplier for premium ceramic vases and custom decor items. The quality of finish on the abstract art vases we sourced for our tech-office lobby.",
       rating: 5,
       image: "https://ui-avatars.com/api/?name=Vikram+Ahuja&background=0f172a&color=fff"
     },
